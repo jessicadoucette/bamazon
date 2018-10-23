@@ -24,10 +24,10 @@ The Bamazon Customer Portal allows users to view the current items available for
 
 <h2>Proof it works - enjoy my gifs</h2>
 Running App
-![running app](./how-tos/running-app.gif)
+![running app](images/running-app.gif)
 <br>
 Trying to buy too many items
-![buy too many](./how-tos/buy-too-many-things.gif)
+![buy too many](images/buy-too-many-things.gif)
 <br>
 The Change in MySql
-![running app](./how-tos/mysql.gif)
+![mysql](images/mysql.gif)
